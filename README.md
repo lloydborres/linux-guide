@@ -11,5 +11,5 @@ My personal guide in installing Linux.
 
 ## Linux Distros Guide
 
-- [Arch Linux](archlinux.md)
-- [Debian](debian.md)
+- [Arch Linux](./Distros/ArchLinux.md)
+- [Debian](./Distros/Debian.md)
