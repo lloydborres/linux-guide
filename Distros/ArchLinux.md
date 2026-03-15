@@ -147,11 +147,6 @@ root  UUID=XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX  none  tpm2-device=auto
 sudo mkinitcpio -P
 ```
 
-### Steam
-
-https://github.com/GloriousEggroll/proton-ge-custom
-https://www.protondb.com
-
 ### Affinity
 
 https://github.com/seapear/AffinityOnLinux/blob/main/Guides/Bottles/Guide.md
